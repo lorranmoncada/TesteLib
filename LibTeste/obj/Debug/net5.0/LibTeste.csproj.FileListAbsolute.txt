@@ -2,7 +2,6 @@ C:\Estudo\LibTeste\LibTeste\bin\Debug\net5.0\LibTeste.deps.json
 C:\Estudo\LibTeste\LibTeste\bin\Debug\net5.0\LibTeste.dll
 C:\Estudo\LibTeste\LibTeste\bin\Debug\net5.0\ref\LibTeste.dll
 C:\Estudo\LibTeste\LibTeste\bin\Debug\net5.0\LibTeste.pdb
-C:\Estudo\LibTeste\LibTeste\obj\Debug\net5.0\LibTeste.csprojAssemblyReference.cache
 C:\Estudo\LibTeste\LibTeste\obj\Debug\net5.0\LibTeste.GeneratedMSBuildEditorConfig.editorconfig
 C:\Estudo\LibTeste\LibTeste\obj\Debug\net5.0\LibTeste.AssemblyInfoInputs.cache
 C:\Estudo\LibTeste\LibTeste\obj\Debug\net5.0\LibTeste.AssemblyInfo.cs
