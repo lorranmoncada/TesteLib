@@ -1,4 +1,4 @@
-name: Build and deploy package - pode ser qualquer nome
+name: Build and deploy package - aqui pode ser qualquer nome
 
 on:
   push:
