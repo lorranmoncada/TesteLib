@@ -3,16 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTeste", "LibTeste\LibTeste.csproj", "{FBAE9A64-E468-4955-BCE1-6925C196495C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibTeste", "LibTeste\LibTeste.csproj", "{FBAE9A64-E468-4955-BCE1-6925C196495C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravatar.Teste", "Gravatar.Teste\Gravatar.Teste.csproj", "{570F9C5B-EB5D-4584-A932-3C7492B2ED0F}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{F9310E90-0177-45CA-9797-C6273C8171C9}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{59281273-8BF7-4651-82B2-746D7BAC9772}"
-	ProjectSection(SolutionItems) = preProject
-		main.yml = main.yml
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gravatar.Teste", "Gravatar.Teste\Gravatar.Teste.csproj", "{570F9C5B-EB5D-4584-A932-3C7492B2ED0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,9 +24,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{59281273-8BF7-4651-82B2-746D7BAC9772} = {F9310E90-0177-45CA-9797-C6273C8171C9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EF274F01-3390-411D-B5C4-986093B2F636}
