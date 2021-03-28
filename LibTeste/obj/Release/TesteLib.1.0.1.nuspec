@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TesteLib</id>
+    <version>1.0.1</version>
+    <title>TesteLib Extensions</title>
+    <authors>Lorran Moncada</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/lorranmendes/TesteLib</projectUrl>
+    <description>Extensions for Test</description>
+    <tags>TesteLib</tags>
+    <repository url="https://github.com/lorranmoncada/TesteLib" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Estudo\LibTeste\LibTeste\bin\Release\net5.0\LibTeste.dll" target="lib\net5.0\LibTeste.dll" />
+  </files>
+</package>

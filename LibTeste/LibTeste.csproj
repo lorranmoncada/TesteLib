@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+
+	  <PackageId>TesteLibLorran</PackageId>
+	  <Version>1.0.0</Version>
+	  <License>MIT</License>
+	  <Authors>Lorran Moncada</Authors>
+	  <PackageDescription>Extensions for Test</PackageDescription>
+	  <Description>Extensions for Gravatar</Description>
+	  <RepositoryUrl>https://github.com/lorranmoncada/TesteLib</RepositoryUrl>
+	  <PackageProjectUrl>https://github.com/lorranmendes/TesteLib</PackageProjectUrl>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <PackageTags>TesteLib</PackageTags>
+	  <Title>TesteLib Extensions</Title>
+	  <Summary>Extensions for TesteLib</Summary>
+  </PropertyGroup>
+
+
+</Project>

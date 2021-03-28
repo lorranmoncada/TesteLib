@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LibTeste</id>
+    <version>1.0.0</version>
+    <authors>LibTeste</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Estudo\LibTeste\LibTeste\bin\Release\net5.0\LibTeste.dll" target="lib\net5.0\LibTeste.dll" />
+  </files>
+</package>
