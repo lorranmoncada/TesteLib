@@ -9,4 +9,3 @@ C:\Estudo\LibTeste\LibTeste\obj\Debug\net5.0\LibTeste.csproj.CoreCompileInputs.c
 C:\Estudo\LibTeste\LibTeste\obj\Debug\net5.0\LibTeste.dll
 C:\Estudo\LibTeste\LibTeste\obj\Debug\net5.0\ref\LibTeste.dll
 C:\Estudo\LibTeste\LibTeste\obj\Debug\net5.0\LibTeste.pdb
-C:\Estudo\LibTeste\LibTeste\obj\Debug\net5.0\LibTeste.csprojAssemblyReference.cache

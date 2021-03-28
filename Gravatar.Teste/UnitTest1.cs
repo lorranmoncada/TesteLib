@@ -17,16 +17,16 @@ namespace Gravatar.Teste
             Assert.Equal(result, obteve);
         }
 
-        [Theory]
-        [InlineData("lorran")]
-        public void Test(string valor)
-        {
-            var result = "Valor retornado é lorran";
+        //[Theory]
+        //[InlineData("lorran")]
+        //public void Test(string valor)
+        //{
+        //    var result = "Valor retornado é lorran";
 
-            var obteve = new TesteLib().TesteRetorno(valor);
+        //    var obteve = new TesteLib().TesteRetorno(valor);
 
-            Assert.Equal(result, obteve);
-        }
+        //    Assert.Equal(result, obteve);
+        //}
 
         [Theory]
         [InlineData("4")]

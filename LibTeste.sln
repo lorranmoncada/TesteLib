@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravatar.Teste", "Gravatar.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{F9310E90-0177-45CA-9797-C6273C8171C9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflow", "workflow", "{59281273-8BF7-4651-82B2-746D7BAC9772}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{59281273-8BF7-4651-82B2-746D7BAC9772}"
 	ProjectSection(SolutionItems) = preProject
 		main.yml = main.yml
 	EndProjectSection
